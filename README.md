@@ -1,9 +1,24 @@
 # Awesome-eSports-AI-Agents
-## Top eSports Building AI Agents Ecosystem
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome eSports AI Agents Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-eSports-AI-Agents/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-eSports-AI-Agents?style=flat-square&color=blue" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-eSports-AI-Agents/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-eSports-AI-Agents?style=flat-square&color=orange" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-eSports-AI-Agents/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-eSports-AI-Agents?style=flat-square&color=green" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+---
+
+## 🎮 Top eSports Building AI Agents Ecosystem 🚀
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on AI Agents for Gaming Performance, Analytics & eSports Operations*  
+*Focused on AI Agents for Gaming Performance, Analytics, Coaching, & eSports Operations*  
 **Last updated: March 2026**
+
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **eSports AI Agents**. These intelligent agents analyze gameplay, provide performance insights, recommend strategies, automate coaching, manage teams, and enhance spectator experiences in competitive gaming.
 
