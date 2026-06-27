@@ -41,42 +41,46 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated eSports & Gaming AI Agents
 
+- **[Godot Engine AI Agents](https://github.com/godotengine/godot)** [![GitHub stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)  
+  Open-source game engine with excellent support for building AI agents and analytics tools.
+
+- **[OpenCV + Computer Vision for Gaming](https://github.com/opencv/opencv)** [![GitHub stars](https://img.shields.io/github/stars/opencv/opencv?style=social&color=white)](https://github.com/opencv/opencv/stargazers)  
+  Computer vision library widely used for gameplay analysis, highlight detection, and performance metrics.
+
+- **[n8n Gaming Workflows](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+  Open-source workflow automation for building custom eSports data pipelines and AI agents.
+
+- **[CrewAI Gaming Crews](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+  Role-based multi-agent orchestration for creating analyst, coach, and commentator agents.
+
+- **[Huginn eSports Agents](https://github.com/huginn/huginn)** [![GitHub stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
+  Open-source automation agent for monitoring tournaments, player stats, and triggering insights.
+
+- **[RLlib (Ray)](https://github.com/ray-project/ray)** [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
+  Scalable reinforcement learning library for complex game AI.
+
+- **[Phidata Gaming Agents](https://github.com/phidatahq/phidata)** [![GitHub stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social&color=white)](https://github.com/phidatahq/phidata/stargazers)  
+  Framework for building production agents with memory and tools for eSports analytics.
+
+- **[LangGraph eSports Agents](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  Stateful multi-agent framework for building strategy, scouting, and coaching agents.
+
+- **[Stable Baselines3](https://github.com/DLR-RM/stable-baselines3)** [![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3?style=social&color=white)](https://github.com/DLR-RM/stable-baselines3/stargazers)  
+  Reliable RL library for training AI agents to play and analyze competitive games.
+
+- **[Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)** [![GitHub stars](https://img.shields.io/github/stars/Unity-Technologies/ml-agents?style=social&color=white)](https://github.com/Unity-Technologies/ml-agents/stargazers)  
+  Powerful toolkit for training intelligent agents in Unity games.
+
+- **[OpenAI Gym / Gymnasium](https://github.com/Farama-Foundation/Gymnasium)** [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social&color=white)](https://github.com/Farama-Foundation/Gymnasium/stargazers)  
+  Foundation for reinforcement learning agents in gaming environments with strong eSports applications.
+
+- **[OpenSpiel](https://github.com/deepmind/open_spiel)** [![GitHub stars](https://img.shields.io/github/stars/deepmind/open_spiel?style=social&color=white)](https://github.com/deepmind/open_spiel/stargazers)  
+  Collection of environments and algorithms for game AI research.
+
 - **[Aim Trainer Open-Source](https://github.com/search?q=aim+trainer+open+source)**  
   Multiple community projects for building custom AI-powered aim training tools with performance analytics.
 
-- **[OpenAI Gym / Gymnasium](https://github.com/Farama-Foundation/Gymnasium)**  
-  Foundation for reinforcement learning agents in gaming environments with strong eSports applications.
-
-- **[Stable Baselines3](https://github.com/DLR-RM/stable-baselines3)**  
-  Reliable RL library for training AI agents to play and analyze competitive games.
-
-- **[LangGraph eSports Agents](https://github.com/langchain-ai/langgraph)**  
-  Stateful multi-agent framework for building strategy, scouting, and coaching agents.
-
-- **[CrewAI Gaming Crews](https://github.com/crewAIInc/crewAI)**  
-  Role-based multi-agent orchestration for creating analyst, coach, and commentator agents.
-
-- **[Godot Engine AI Agents](https://github.com/godotengine/godot)**  
-  Open-source game engine with excellent support for building AI agents and analytics tools.
-
-- **[OpenCV + Computer Vision for Gaming](https://github.com/opencv/opencv)**  
-  Computer vision library widely used for gameplay analysis, highlight detection, and performance metrics.
-
-- **[Huginn eSports Agents](https://github.com/huginn/huginn)**  
-  Open-source automation agent for monitoring tournaments, player stats, and triggering insights.
-
-- **[Phidata Gaming Agents](https://github.com/phidatahq/phidata)**  
-  Framework for building production agents with memory and tools for eSports analytics.
-
-- **[n8n Gaming Workflows](https://github.com/n8n-io/n8n)**  
-  Open-source workflow automation for building custom eSports data pipelines and AI agents.
-
-### Additional Strong Open-Source Options
-
-- **[Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)** — Powerful toolkit for training intelligent agents in Unity games.
-- **[RLlib](https://github.com/ray-project/ray)** — Scalable reinforcement learning library for complex game AI.
-- **[OpenSpiel](https://github.com/deepmind/open_spiel)** — Collection of environments and algorithms for game AI research.
-- **[Chess / Fighting Game AI** community repositories adaptable to eSports.
+- **[Chess / Fighting Game AI]** community repositories adaptable to eSports.
 - Many **Ollama + Computer Vision** stacks for local gameplay analysis agents.
 
 **Frameworks for building custom agents**: Combine **LangGraph**, **CrewAI**, **Godot**, and **OpenCV** with **Ollama** to create fully local, powerful eSports AI agents for training, analytics, and content creation.
