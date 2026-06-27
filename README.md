@@ -115,6 +115,17 @@ Star the repo if you find it useful!
 - AI agents in competitive gaming should be used ethically and in compliance with game terms of service.
 - Self-hosted open-source solutions require proper hardware and maintenance.
 
+## Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-eSports-AI-Agents&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-eSports-AI-Agents&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-eSports-AI-Agents&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-eSports-AI-Agents&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ---
 
 **Made for eSports teams, coaches, analysts, content creators, and game developers.**  
