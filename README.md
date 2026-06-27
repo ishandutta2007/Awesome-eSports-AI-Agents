@@ -23,18 +23,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (eSports AI Agents)
 
-| SaaS Product | Description | Pricing Model | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[GRID AI Insights](https://grid.gg/)** | AI-powered analytics platform delivering deep performance insights for competitive gaming. | Custom / Enterprise | No standard free tier (Open Access available for select non-commercial research projects). |
-| **[Team Liquid’s Joule](https://teamliquid.com/)** | Custom AI agent developed by Team Liquid for strategy, scouting, and performance optimization. | Custom / Proprietary (Enterprise integration with SAP Joule) | No free tier (Internal proprietary tool). |
-| **[Aimlabs](https://aimlabs.com/)** | AI-driven aim trainer with personalized coaching and performance tracking. | Free / Premium (Aimlabs+ at $9.99/mo) | Unlimited (Core trainer, custom tasks, and community scenarios are free). |
-| **[DeepMotion](https://www.deepmotion.com/)** | AI motion capture and animation platform used for realistic player movement analysis in eSports. | Freemium (Paid plans from $9/mo billed annually) | 3 credits/mo, 1 download/mo, up to 10-second clip length. |
-| **[Promethean AI](https://promethean.ai/)** | Intelligent AI assistant for game development and eSports content creation. | Free for Personal / Custom (Commercial licensing) | Free for personal, non-commercial use. |
-| **[Opus Clip](https://opus.pro/)** | AI video editing agent specialized in creating highlight reels and social content from eSports matches. | Freemium (Paid plans from $15/mo) | 60 credits/mo, includes watermark, clips must be exported within 3 days. |
-| **[Hedra](https://hedra.com/)** | AI character and animation platform for creating engaging eSports content and avatars. | Freemium (Paid plans from $15/mo) | ~100–400 credits/mo, includes watermark, personal non-commercial use only. |
-| **[Digiqt Community Agent](https://digiqt.com/)** | AI agent for community management and fan engagement in eSports organizations. | Custom / Project-based | No free tier (Free 15-minute consultation available). |
-| **[Theta Technolabs Analytics Agent](https://thetatechnolabs.com/)** | Specialized AI for performance analytics and strategic decision support. | Custom / Project-based | No free tier (Requires custom integration consultation). |
-| **[Fini AI](https://fini.ai/)** | AI coaching and performance optimization agent for individual players and teams. | Custom / Enterprise (Resolution-based pricing, e.g., $0.69/resolution) | No standard free tier (90-day risk-free trial/pilot programs available). |
+| SaaS Product | Description | Pricing Model | Free Tier Limit | Company Size (Est. Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Team Liquid’s Joule](https://teamliquid.com/)** | Custom AI agent developed by Team Liquid for strategy, scouting, and performance optimization. | Custom / Proprietary (Enterprise integration with SAP Joule) | No free tier (Internal proprietary tool). | ~$415M Valuation / $62.4M Revenue |
+| **[Opus Clip](https://opus.pro/)** | AI video editing agent specialized in creating highlight reels and social content from eSports matches. | Freemium (Paid plans from $15/mo) | 60 credits/mo, includes watermark, clips must be exported within 3 days. | ~$215M Valuation |
+| **[Hedra](https://hedra.com/)** | AI character and animation platform for creating engaging eSports content and avatars. | Freemium (Paid plans from $15/mo) | ~100–400 credits/mo, includes watermark, personal non-commercial use only. | ~$200M Valuation / $3.5M ARR |
+| **[Aimlabs](https://aimlabs.com/)** | AI-driven aim trainer with personalized coaching and performance tracking. | Free / Premium (Aimlabs+ at $9.99/mo) | Unlimited (Core trainer, custom tasks, and community scenarios are free). | ~$150M Valuation (Raised $50M Series C) |
+| **[GRID AI Insights](https://grid.gg/)** | AI-powered analytics platform delivering deep performance insights for competitive gaming. | Custom / Enterprise | No standard free tier (Open Access available for select non-commercial research projects). | ~$24.4M Valuation / $7.6M Revenue |
+| **[Fini AI](https://fini.ai/)** | AI coaching and performance optimization agent for individual players and teams. | Custom / Enterprise (Resolution-based pricing, e.g., $0.69/resolution) | No standard free tier (90-day risk-free trial/pilot programs available). | ~$6.8M Valuation / $2.3M ARR |
+| **[Promethean AI](https://promethean.ai/)** | Intelligent AI assistant for game development and eSports content creation. | Free for Personal / Custom (Commercial licensing) | Free for personal, non-commercial use. | ~$5M Valuation (Est. Private) |
+| **[DeepMotion](https://www.deepmotion.com/)** | AI motion capture and animation platform used for realistic player movement analysis in eSports. | Freemium (Paid plans from $9/mo billed annually) | 3 credits/mo, 1 download/mo, up to 10-second clip length. | ~$4.3M Valuation / $1.4M ARR |
+| **[Digiqt Community Agent](https://digiqt.com/)** | AI agent for community management and fan engagement in eSports organizations. | Custom / Project-based | No free tier (Free 15-minute consultation available). | ~$3.0M Valuation (Est. Revenue ₹3.94 Cr) |
+| **[Theta Technolabs Analytics Agent](https://thetatechnolabs.com/)** | Specialized AI for performance analytics and strategic decision support. | Custom / Project-based | No free tier (Requires custom integration consultation). | ~$1.0M Valuation (Est. Revenue ~$134K) |
+
 
 ## Open-Source GitHub Projects
 
